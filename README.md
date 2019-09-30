@@ -2,10 +2,10 @@
 According to 苦C
 
 ## notes
-###to clone a repository:
+to clone a repository:
 git clone [url]
 
-###to sync
+to sync:
 open a file  
 select 'source control' option  
 stage the file by clicking the + button  
