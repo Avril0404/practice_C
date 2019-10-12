@@ -1,5 +1,5 @@
 # practice_C
-According to 苦C
+According to 苦C, 猫でもわかるC言語プログラミング
 
 ## notes
 to clone a repository:  
